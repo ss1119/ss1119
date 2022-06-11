@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ss1119">
-    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ss1119&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight" />
+    <img height="200px" src="https://github-readme-stats.vercel.app/api?username=ss1119&count_private=true&show_icons=true&theme=tokyonight" />
   </a>
   <a href="https://github.com/ss1119">
     <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ss1119&langs_count=4&layout=default&theme=github_dark"/>
