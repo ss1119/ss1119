@@ -9,6 +9,6 @@
   
 <p align="center"> 
   <a href="https://github.com/ss1119">
-    <img src="https://github-profile-trophy.vercel.app/?username=ss1119&theme=algolia&column=9"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ss1119&theme=algolia&column="/>
   </a>
 </p>
